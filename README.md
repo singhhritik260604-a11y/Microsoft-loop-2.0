@@ -1,6 +1,6 @@
-# Microsoft Loop 2.0 Clone
+#  Loop 
 
-This is a full-stack, real-time collaborative application inspired by **Microsoft Loop**.  
+This is a full-stack, real-time collaborative application inspired by **  Loop**.  
 The project replicates the core features of a modern collaborative workspace — synchronized document editing, personalized dashboards, and integrated AI capabilities.  
 It serves as a showcase for building robust, real-time applications using a modern technology stack.
 
@@ -43,7 +43,7 @@ It serves as a showcase for building robust, real-time applications using a mode
 ## 📁 Project Structure
 
 ```
-Microsoft-loop-2.0/
+ -loop-2.0/
 ├── app/          # Next.js routes (dashboard, documents, APIs)
 ├── components/   # Reusable UI components (dashboard, editor, ui, etc.)
 ├── lib/          # Core utilities (Liveblocks, Firebase setup, helpers)
@@ -63,8 +63,8 @@ Make sure you have the following installed:
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/singhhritik260604-a11y/Microsoft-loop-2.0.git
-cd Microsoft-loop-2.0
+git clone https://github.com/singhhritik260604-a11y/ -loop-2.0.git
+cd  -loop-2.0
 ```
 
 Install dependencies:
